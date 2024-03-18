@@ -1,4 +1,4 @@
-# Submission_Project
+# Amazon-Scrapper
 # Steps
 1). Clone the repository on your desktop [git clone "file link"]. Open the folder containing files in any IDE of choice. Change the path to that file
 
